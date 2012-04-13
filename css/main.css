@@ -1,0 +1,27 @@
+body {
+  font-family: "Gill Sans", sans-serif;
+  color: #333;
+}
+
+div#lander {
+  position: relative;
+  width: 600px;
+  text-align: center;
+  margin: 200px auto;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: normal;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-bottom: 10px;
+}
