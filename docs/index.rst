@@ -14,7 +14,7 @@ Elm City Labs
 Our Projects
 ------------
 
-* Objectifier: https://github.com/elmcitylabs/objectifier
-* ECL Twitter: https://github.com/elmcitylabs/ECL-Twitter
-* ECL Facebook: https://github.com/elmcitylabs/ECL-Facebook
+* `Objectifier <https://github.com/elmcitylabs/objectifier>`_: makes it easy to inspect and traverse Python objects.
+* `ECL Twitter <https://github.com/elmcitylabs/ECL-Twitter>`_
+* `ECL Facebook <https://github.com/elmcitylabs/ECL-Facebook>`_
 
