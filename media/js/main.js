@@ -3,14 +3,11 @@ window.onload = function() {
     if (d.length > 1) {
         normal_inquiry.className = "hidden";
         domain_inquiry.className = "";
-        icon.className = "";
-        logo.className = "hidden";
+        email.setAttribute('href', 'mailto:domains@elmcitylabs.com?subject=I\'m%20interested%20in%20' + d);
     }
     else {
         normal_inquiry.className = "";
         domain_inquiry.className = "hidden";
-        icon.className = "hidden";
-        logo.className = "";
     }
 }
 
